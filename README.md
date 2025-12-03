@@ -232,4 +232,10 @@ This project successfully demonstrates a scalable, accurate, and real-world appl
 * Kaggle Food Dataset
 * Flask Framework
 * Deep Learning Books (Goodfellow, Chollet, Géron)
-
+## 👩‍💻 Author
+* Porla Mahesh.
+* Data Science, Vihara Tech.
+* 📧 Gmail id:maheshporla1434@gmail.com).
+* 🌐 [LinkedIn Profile](www.linkedin.com/in/maheshporla264.
+* Contact No:7993253813.
+* Get here:https://food-classification-using-multi-models.onrender.com
